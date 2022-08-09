@@ -1,30 +1,4 @@
 
-/*
-create a board 
-store in object. 
-board has no values intitially 
-get board to display x or o depending on what user chooses 
-store the values on the board that user chooses, and dont allow additional clicl 
-allow board to reset 
-
-*/
-
-
-
-/* 
-attributes of the board: has 9 spots 
-methods: allows for a click and stores value (x or o)
-does not allow for additional input once value is stored 
-
-reset is a button. once button is clicked remove stored input values. 
-
-*/
-
-
-// const ttt = new Board([null, null, null, null, null])
-
-
-
 const spots = [null, null, null, null, null, null, null, null, null]; 
 
 
